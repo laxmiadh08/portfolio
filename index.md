@@ -2,9 +2,8 @@
 
 ---
 
-### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Hospital Price Analysis](/sample_page)
 <img src="images/pricing.png?raw=true"/>
 
 ---
